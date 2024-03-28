@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+  background-color: ;
+}
+
+.buttons1 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px;
+  margin-top: 150px;
+  background-color: red;
+  cursor: pointer;
+}
+
+.buttons1:hover {
+  border: 3px solid blue;
+}
+
+.buttons2 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px;
+  margin-top: 100px;
+  cursor: pointer;
+  background-color: green;
+}
+.buttons2:hover {
+  border: 3px solid blue;
+}
+
+.buttons3 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px;
+  margin-top: 100px;
+  cursor: pointer;
+  background-color: blue;
+}
+.buttons3:hover {
+  border: 3px solid blue;
+}
+
+.buttons4 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px;
+  margin-top: 100px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+.buttons4:hover {
+  border: 3px solid blue;
+}
+
+.buttons5 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px;
+  margin-top: 100px;
+  cursor: pointer;
+  background-color: pink;
+}
+.buttons5:hover {
+  border: 3px solid blue;
+}
+
+.buttons6 {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px;
+  margin-top: 100px;
+  cursor: pointer;
+  background-color: Yellow;
+}
+.buttons6:hover {
+  border: 3px solid blue;
+}
+
+.inputbox {
+  margin-top: 100px;
+  padding: 10px;
+  text-align: center;
+}
